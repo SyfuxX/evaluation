@@ -11,8 +11,12 @@
     </head>
     <body>
 
-        <?= $erros ?>
-
+		<header>
+		
+			<?= $erros ?>
+		
+		</header>
+		
         <main>
 
             <h1>Add a new vehicle</h1>
